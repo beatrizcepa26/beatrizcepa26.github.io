@@ -23,7 +23,7 @@ Out 2021 — Out 2022
 
 ## Education
 
-**Ph.D. in Informatics**, University of Minho.                	
+**Ph.D. in Informatics**, University of Minho.  
 Supervised by Prof. António Sousa, Prof. João Paulo Cunha, and Dr. Ricardo Morais.  
 Apr 2023 — present   
 
