@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## M.Sc. Dissertations
+<hr/>
 
 ### 2023/2024
 
