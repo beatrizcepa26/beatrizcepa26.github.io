@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-### Conference Proceedings
+## Conference Proceedings
 
-**B. Cepa**, C. Brito, and A. Sousa, “Generative adversarial networks in healthcare: A case study on MRI image generation,” in *2023 IEEE 7th Portuguese Meeting on Bioengineering (ENBENG)*, 2023, pp. 48–51. DOI:[10.1109/ENBENG58165.2023.10175330](https://doi.org/10.1109/ENBENG58165.2023.10175330)*
+B. Cepa, C. Brito, and A. Sousa, “Generative adversarial networks in healthcare: A case study on MRI image generation,” in *2023 IEEE 7th Portuguese Meeting on Bioengineering (ENBENG)*, 2023, pp. 48–51. DOI:[10.1109/ENBENG58165.2023.10175330](https://doi.org/10.1109/ENBENG58165.2023.10175330)
 
