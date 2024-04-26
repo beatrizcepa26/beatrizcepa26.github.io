@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "beatrizcepa26"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,8 +12,12 @@ I am a Ph.D. Student and Researcher at the High-Assurance Software Laboratory (H
 
 # Education
 
-| Apr 2023 — Present  	| **Ph.D. in Informatics**, University of Minho.            	|
-|---------------------	|-----------------------------------------------------------	|
-| Sep 2017 — Oct 2022 	| **M.Sc. in Biomedical Engineering**, University of Minho. 	|
-|                     	| Specialization: Medical Informatics.                      	|
-|                     	| Dissertation title:*Deep Learning for Image Generation*   	|
+**Ph.D. in Informatics**, University of Minho.            	
+Supervised by Prof. António Sousa, Prof. João Paulo Cunha, and Dr. Ricardo Morais.
+Apr 2023 — present
+
+**M.Sc. in Biomedical Engineering**, University of Minho. 
+Specializtion in Medical Informatics  
+Supervised by Prof. António Sousa and Cláudia Brito.
+Dissertation Title: *Deep Learning for Image Generation*
+Sep 2017 — Oct 2022
