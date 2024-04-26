@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
@@ -18,8 +18,8 @@ Porto, Portugal. 2023.
 
 *Latex + Mendeley*.  
 in WEEKSHOP.  
-University of Minho, Portugal. 2024  
+University of Minho, Portugal. 2024.  
 
 *Medical Imaging Informatics: A Whole New World*.  
 in XIX Biomedical Engineering Summit.  
-University of Minho, Portugal. 2024  
+University of Minho, Portugal. 2024. 
