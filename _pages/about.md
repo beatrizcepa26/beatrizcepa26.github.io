@@ -12,12 +12,12 @@ I am a Ph.D. Student and Researcher at the High-Assurance Software Laboratory (H
 
 # Education
 
-**Ph.D. in Informatics**, University of Minho.            	
-Supervised by Prof. António Sousa, Prof. João Paulo Cunha, and Dr. Ricardo Morais.
-Apr 2023 — present
+**Ph.D. in Informatics**, University of Minho. \             	
+Supervised by Prof. António Sousa, Prof. João Paulo Cunha, and Dr. Ricardo Morais.  \
+Apr 2023 — present  \  
 
-**M.Sc. in Biomedical Engineering**, University of Minho. 
-Specializtion in Medical Informatics  
-Supervised by Prof. António Sousa and Cláudia Brito.
-Dissertation Title: *Deep Learning for Image Generation*
-Sep 2017 — Oct 2022
+**M.Sc. in Biomedical Engineering**, University of Minho.   \
+Specializtion in Medical Informatics    \
+Supervised by Prof. António Sousa and Cláudia Brito.  \
+Dissertation Title: *Deep Learning for Image Generation*  \
+Sep 2017 — Oct 2022  \
