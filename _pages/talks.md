@@ -10,7 +10,8 @@ author_profile: true
 
 *Generative Adversarial Networks in Healthcare: A case Study on MRI Image Generation*.  
 in 7th Portuguese Meeting on Bioengineering (ENBENG).  
-Porto, Portugal. 2023.
+Porto, Portugal. 2023.  
+[POSTER](https://beatrizcepa26.github.io/files/ENBENG_poster.pdf)
 
 
 ## Others
