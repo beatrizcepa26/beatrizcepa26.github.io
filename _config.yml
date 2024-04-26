@@ -21,7 +21,7 @@ repository               : "beatrizcepa26/beatrizcepa26.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/foto(2).png"
+  avatar           : "images/foto(2).jpg"
   name             : "Beatriz Cepa"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Student and Researcher at HASLab, INESC TEC"
