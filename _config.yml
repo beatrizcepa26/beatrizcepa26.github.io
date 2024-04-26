@@ -21,7 +21,7 @@ repository               : "beatrizcepa26/beatrizcepa26.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "foto(2).png"
+  avatar           : "images/foto(2).png"
   name             : "Beatriz Cepa"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Student and Researcher at HASLab, INESC TEC"
@@ -56,7 +56,7 @@ author:
   # keybase          : # Username
   # instagram        : # Username
   # lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/beatriz-cepa/"
+  linkedin         : "beatriz-cepa/"
   # mastodon         : # URL
   # medium           : # URL
   # pinterest        : # Username
