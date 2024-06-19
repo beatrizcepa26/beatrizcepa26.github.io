@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-My CV can be found [here](https://beatrizcepa26.github.io/files/CV.pdf).
+My CV can be found [here](https://beatrizcepa26.github.io/files/CV_Beatriz_Cepa.pdf).
