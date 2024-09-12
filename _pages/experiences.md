@@ -22,7 +22,7 @@ University of Minho, Portugal.
 ## Committees
 <hr/>
 
-**School of Engineering Board** 
+**School of Engineering Board**   
 Student Representative.  
 Mar 2024 — Present.  
 University of Minho, Portugal. 
@@ -36,7 +36,7 @@ University of Minho, Portugal.
 ## Associations
 <hr/>
 
-**Gabinete de Alunos de Engenharia Biomédica (GAEB)**
+**Gabinete de Alunos de Engenharia Biomédica (GAEB)**  
 Vice-Director of the Recreational Department.    
 Oct 2020 — Apr 2021.  
 University of Minho, Portugal. 
