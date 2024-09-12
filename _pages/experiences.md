@@ -8,15 +8,15 @@ author_profile: true
 ## Events
 <hr/>
 
-**ACM Europe Summer School on HPC Computer Architectures for AI and Dedicated Applications**
-Participant.
-01/09/2024 – 06/09/2024.
-Barcelona.
+**ACM Europe Summer School on HPC Computer Architectures for AI and Dedicated Applications**  
+Participant.  
+01/09/2024 – 06/09/2024.  
+Barcelona.  
 
-**XVI Biomedical Engineering Summit**
-Member of the Organizing Committee.
-18/02/2021 – 20/02/2021.
-University of Minho.
+**XVI Biomedical Engineering Summit**  
+Member of the Organizing Committee.  
+18/02/2021 – 20/02/2021.  
+University of Minho.  
 
 
 
