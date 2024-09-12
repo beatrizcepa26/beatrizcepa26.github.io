@@ -19,19 +19,26 @@ Member of the Organizing Committee.
 University of Minho.  
 
 
-
-
-## Committee Member
+## Committees
 <hr/>
 
-* **Student Representative on the School of Engineering Board**, University of Minho. Mar 2024 — Present.
+**School of Engineering Board** 
+Student Representative.  
+Mar 2024 — Present.  
+University of Minho. 
 
-* **Student Representative on the Course Committee of the Doctoral Program in Informatics**, University of Minho. May 2023 — Present.
+**Course Committee of the Doctoral Program in Informatics**  
+Student Representative.  
+May 2023 — Present.  
+University of Minho. 
 
 
-## Association Member
+## Associations
 <hr/>
 
-* **Vice-Director of the Recreational Department**, Gabinete de Alunos de Engenharia Biomédica (GAEB), University of Minho. Oct 2020 — Apr 2021.
+**Gabinete de Alunos de Engenharia Biomédica (GAEB)**
+Vice-Director of the Recreational Department.    
+Oct 2020 — Apr 2021.  
+University of Minho. 
 
 
