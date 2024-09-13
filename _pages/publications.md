@@ -22,5 +22,5 @@ B. Cepa, C. Brito, and A. Sousa, “Generative adversarial networks in healthcar
 
 ### Preprints
 A. Oliveira, B. Cepa, C. Brito, and A. Sousa, “Mac: An artifact correction framework for brain mri based on deep neural networks,” bioRxiv, 2024. doi: 10.1101/2024.08.02.606374. eprint:
-[https://www.biorxiv.org/content/early/2024/08/06/2024.08.02.606374.full.pdf](https://www.biorxiv.org/content/early/2024/08/06/2024.08.02.606374.full.pdf).
+[https://www.biorxiv.org/content/10.1101/2024.08.02.606374v1.full](https://www.biorxiv.org/content/10.1101/2024.08.02.606374v1.full).
 
