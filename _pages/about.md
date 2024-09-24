@@ -12,23 +12,27 @@ I am a Ph.D. Student and Research Assistant at the High-Assurance Software Labor
 
 ## Affiliation
 
-**Research Assistant**, High-Assurance Software Laboratory, INESC TEC.  
-Apr 2023 — Present
+**Research Assistant**    
+Apr 2023 — Present  
+High-Assurance Software Laboratory, INESC TEC, Portugal
 
-**M.Sc. Student**, High-Assurance Software Laboratory, INESC TEC.    
-Out 2021 — Out 2022
+**M.Sc. Student**    
+Out 2021 — Out 2022  
+High-Assurance Software Laboratory, INESC TEC, Portugal
 
 
 
 
 ## Education
 
-**Ph.D. in Informatics**, University of Minho.  
+**Ph.D. in Informatics**  
 Supervised by Prof. António Sousa, Prof. João Paulo Cunha, and Dr. Ricardo Morais.  
 Apr 2023 — present   
+University of Minho, Portugal
 
-**M.Sc. in Biomedical Engineering**, University of Minho.   
+**M.Sc. in Biomedical Engineering**   
 Specialization in Medical Informatics    
 Supervised by Prof. António Sousa and Cláudia Brito.  
 Dissertation Title: *Deep Learning for Image Generation*  
 Sep 2017 — Oct 2022  
+University of Minho, Portugal 
