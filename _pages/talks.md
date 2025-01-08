@@ -14,13 +14,16 @@ Porto, Portugal. 2023.
 [POSTER](https://beatrizcepa26.github.io/files/ENBENG_poster.pdf)
 
 
-## Others
+## Workshops
 <hr/>
+
+*Latex*.    
+University of Minho, Portugal. Dec 2024.  
 
 *Latex + Mendeley*.  
 in WEEKSHOP.  
-University of Minho, Portugal. 2024.  
+University of Minho, Portugal. Apr 2024.  
 
 *Medical Imaging Informatics: A Whole New World*.  
 in XIX Biomedical Engineering Summit.  
-University of Minho, Portugal. 2024. 
+University of Minho, Portugal. Feb 2024. 

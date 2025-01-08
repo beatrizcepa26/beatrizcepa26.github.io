@@ -5,6 +5,8 @@ permalink: /experiences/
 author_profile: true
 ---
 
+<hr/>
+
 ## Events
 <hr/>
 
@@ -18,6 +20,7 @@ Member of the Organizing Committee.
 18/02/2021 – 20/02/2021.  
 University of Minho, Portugal.  
 
+<hr/>
 
 ## Committees
 <hr/>
@@ -32,6 +35,7 @@ Student Representative.
 May 2023 — Present.  
 University of Minho, Portugal. 
 
+<hr/>
 
 ## Associations
 <hr/>
