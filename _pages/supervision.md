@@ -10,7 +10,7 @@ author_profile: true
 
 ### 2024/2025
 
-Ana Sousa. **Automatic Detection of Brain Anomalies Using Federated Learning and Magnetic Resonance Imaging Analysis**. Co-advised with Cláudia Brito and António Sousa. University of Minho. Sep 2024 — Present.
+Ana Sousa. **Classifying Alzheimer’s Disease through Federated Learning and 3D Brain MRIs.**. Co-advised with Cláudia Brito and António Sousa. University of Minho. Sep 2024 — Present.
 
 Ricardo Araújo. **Neuroimaging analysis pipeline leveraging open-source frameworks in distributed environments**. Co-advised with Cláudia Brito and António Sousa. University of Minho. Sep 2024 — Present.
 

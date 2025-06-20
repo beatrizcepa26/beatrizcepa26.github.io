@@ -10,6 +10,11 @@ author_profile: true
 ## Events
 <hr/>
 
+**European Dependable Computing Conference (EDCC)**  
+Poster Presentation.  
+08/04/2025 – 11/04/2025.  
+Lisbon, Portugal.  
+
 **ACM Europe Summer School on HPC Computer Architectures for AI and Dedicated Applications**  
 Participant.  
 01/09/2024 – 06/09/2024.  
@@ -27,7 +32,7 @@ University of Minho, Portugal.
 
 **School of Engineering Board**   
 Student Representative.  
-Mar 2024 — Present.  
+Mar 2024 — May 2025.  
 University of Minho, Portugal. 
 
 **Course Committee of the Doctoral Program in Informatics**  
