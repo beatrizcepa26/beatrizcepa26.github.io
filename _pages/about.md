@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Student and Research Assistant at the High-Assurance Software Laboratory (HASLab), INESC TEC. My academic journey has allowed me to contact and work in fields such as Machine and Deep Learning, Distributed and Web Applications, and Medical Imaging Informatics. Currently, my research focuses on Distributed Systems and Medical Imaging Informatics. I am developing an approach to dMRI image analysis that uses parallel processing to improve the efficiency of these tasks, aiming for a user-friendly, scalable, and clinically usable solution to meet the computational demands of medical image analysis.
+I am a Ph.D. Student and Research Assistant at the High-Assurance Software Laboratory (HASLab), INESC TEC. My research focuses on High-Performance Computing and Medical Imaging, specifically in optimizing MRI image processing tools in a large-scale environment to reduce execution times and allow for processing multiple subjects at the same time. My research interests also include Deep Learning and Applications for healthcare.
 
 
 ## Affiliation
